@@ -1,15 +1,15 @@
-**#Python Exercise Repository**
+# Python Exercise Repository
 
 This repositary consist of a collection of python exercises I am working on to improve my skills. 
 
-**##Table of contents**
+##Table of contents 
 
 -Exercise1:
 
 
-**##Exercises**
+## Exercises  
 
-**##Exercise1:**
+## Exercise1: 
 
 Short description of what the exercise is about.
 
