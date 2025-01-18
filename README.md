@@ -7,7 +7,7 @@ This repositary consist of a collection of python exercises I am working on to i
 
 
 **##Exercises**
-##Exercise1: 
+**##Exercise1: **
 Short description of what the exercise is about.
 
 
