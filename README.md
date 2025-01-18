@@ -3,11 +3,14 @@
 This repositary consist of a collection of python exercises I am working on to improve my skills. 
 
 **##Table of contents**
+
 -Exercise1:
 
 
 **##Exercises**
+
 **##Exercise1: **
+
 Short description of what the exercise is about.
 
 
