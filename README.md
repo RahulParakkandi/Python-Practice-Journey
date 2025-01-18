@@ -2,7 +2,7 @@
 
 This repositary consist of a collection of python exercises I am working on to improve my skills. 
 
-##Table of contents 
+## Table of contents 
 
 -Exercise1:
 
